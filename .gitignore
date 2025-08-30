@@ -1,0 +1,25 @@
+# Entornos Virtuales
+venv/
+.venv/
+
+# Archivos de Secretos
+.env
+
+# Bases de Datos y Datos Procesados
+# No subimos la BD ni los datos procesados, solo el código y los datos de origen.
+chroma_db/
+processed_data/
+
+# Archivos de Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de IDE y Sistema Operativo
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de salida de pruebas
+*.bin
+*.html
+*.png
