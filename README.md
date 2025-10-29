@@ -49,8 +49,8 @@ The application follows a robust, multi-stage RAG architecture to ensure high-qu
 
 2.  **Clone the repository:**
     ```bash
-    git clone [URL-of-your-repository]
-    cd [repository-name]
+    git clone https://github.com/adolfovalle/conversational-rag-assistant
+    cd conversational-rag-assistant
     ```
 3.  **Create and activate a virtual environment:**
     ```bash
